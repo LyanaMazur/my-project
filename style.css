@@ -1,0 +1,35 @@
+body { background-image: url(background_img.jpg);
+        }
+header {
+        color: white;
+        text-align: center;
+        padding: 30px;
+            }
+            
+ .menu li {
+	display: inline-block;
+	padding: 10px 10px;
+	margin: 0;
+	box-shadow: 1px 1px 1px 1px;
+}           
+nav {position: fixed;
+    cursor: pointer;
+    right: 100px;
+    }
+    
+#my_photo {
+    float:left;
+    width:20%;
+}
+#my_name{
+    color:white;
+}
+      footer {
+                
+                color:white;
+                padding:10px 0;
+                bottom:0;
+                position:relative;
+                margin-bottom: 0;
+                clear:both;
+                 }
